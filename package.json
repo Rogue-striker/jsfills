@@ -1,0 +1,14 @@
+{
+  "name": "jsfils",
+  "version": "1.0.0",
+  "description": "javascript polyfill for nodejs",
+  "main": "index.js",
+  "author" : "rogue-striker",
+  "keywords": [
+    "jsfils",
+    "polyfill",
+    "javascript",
+    "nodejs"
+  ],
+  "license": "ISC"
+}
