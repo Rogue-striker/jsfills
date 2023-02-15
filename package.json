@@ -1,7 +1,7 @@
 {
   "name": "jsfils",
   "version": "1.0.0",
-  "description": "javascript polyfill for nodejs",
+  "description": "javascript polyfill for some of the functions",
   "main" : "src/index.js",
   "author" : "rogue-striker",
   "keywords": [
